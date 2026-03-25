@@ -1,4 +1,3 @@
-<img width="1097" height="959" alt="image" src="https://github.com/user-attachments/assets/07743763-0bd6-462a-9ef8-0bf114a49dc6" /><img width="1097" height="959" alt="image" src="https://github.com/user-attachments/assets/898dbcac-4b7e-479c-ac00-5769a766779c" />
 # ⚡ Syembuk Discord Server Management
 
 > Advanced Discord Server Management Tool with Interactive CLI Dashboard
@@ -37,8 +36,8 @@ Until then, only the compiled `.exe` version is available.
 │                             ███████║   ██║   ███████╗██║ ╚═╝ ██║██████╔╝╚██████╔╝██║  ██╗                            │
 │                             ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝                            │
 │                                                                                                                      │
-│                                            ◆  Discord  @syembuk  ◆                                                   │
-│                                      ![Advanced Server Management Dashboard](https://cdn.discordapp.com/attachments/1369762433626935438/1486159600431534231/0ft52tn.png?ex=69c47d7c&is=69c32bfc&hm=295477a09712e0d17ac0ad85f182bdddc5479bf76fccd901c4543973a36d7982&animated=true)                                            │
+│                                            ◆  Discord  @syembuk  ◆                                                  │
+│                                      Advanced Server Management Dashboard                                            │
 │                                                                                                                      │
 │                                                                                                                      │
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
@@ -65,7 +64,7 @@ Until then, only the compiled `.exe` version is available.
 - 🚪 Safe Exit System  
 
 ---
-
+![Preview](https://cdn.discordapp.com/attachments/1369762433626935438/1486159600431534231/0ft52tn.png?ex=69c47d7c&is=69c32bfc&hm=295477a09712e0d17ac0ad85f182bdddc5479bf76fccd901c4543973a36d7982&animated=true)
 ## 📦 Download
 
 📁 Download the `.rar` file from the repository and extract it.
