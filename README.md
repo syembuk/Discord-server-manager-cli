@@ -1,9 +1,10 @@
 # ⚡ Syembuk Discord Server Management
-
+### RaR Password:-
+```syembukdev```
 > Advanced Discord Server Management Tool with Interactive CLI Dashboard
 
 <p align="center">
-  <img src="YOUR_SCREENSHOT_LINK_HERE" width="800"/>
+  <img src="https://cdn.discordapp.com/attachments/1369762433626935438/1486159600431534231/0ft52tn.png?ex=69c47d7c&is=69c32bfc&hm=295477a09712e0d17ac0ad85f182bdddc5479bf76fccd901c4543973a36d7982&animated=true" width="800"/>
 </p>
 
 ---
